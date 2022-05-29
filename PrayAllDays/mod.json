@@ -1,0 +1,13 @@
+{
+  "Id": "PrayAllDays",
+  "DisplayName": "PrayAllDays",
+  "Author": "Alca259",
+  "Version": "1",
+  "Requires": [],
+  "Enable": true,
+  "AssemblyName": "PrayAllDays.dll",
+  "EntryMethod": "PrayAllDays.MainPatcher.Patch",
+  "LoadOrder": 9,
+  "Priority": "Last",
+  "Config": {}
+}
