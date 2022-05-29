@@ -1,0 +1,1 @@
+{"Id":"AlchemyResearch","DisplayName":"AlchemyResearch","Author":"UrbanVibes","Version":"1.0","Requires":[],"Enable":false,"AssemblyName":"AlchemyResearch.dll","EntryMethod":"AlchemyResearch.MainPatcher.Patch","LoadOrder":-1,"Priority":null,"Config":{}}
