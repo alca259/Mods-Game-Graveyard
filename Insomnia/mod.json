@@ -1,0 +1,13 @@
+{
+  "Id": "Insomnia",
+  "DisplayName": "Insomnia",
+  "Author": "Alca259",
+  "Version": "1",
+  "Requires": [],
+  "Enable": true,
+  "AssemblyName": "Insomnia.dll",
+  "EntryMethod": "Insomnia.MainPatcher.Patch",
+  "LoadOrder": 8,
+  "Priority": "Last",
+  "Config": {}
+}
