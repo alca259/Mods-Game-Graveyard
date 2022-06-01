@@ -1,0 +1,13 @@
+{
+  "Id": "NoCorpseDecay",
+  "DisplayName": "NoCorpseDecay",
+  "Author": "Alca259",
+  "Version": "1",
+  "Requires": [],
+  "Enable": true,
+  "AssemblyName": "NoCorpseDecay.dll",
+  "EntryMethod": "NoCorpseDecay.MainPatcher.Patch",
+  "LoadOrder": 10,
+  "Priority": "Last",
+  "Config": {}
+}
